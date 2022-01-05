@@ -1,0 +1,23 @@
+{
+  "name": "09-readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer":"8.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/14Kappaman/Professional-README-Generator.git"
+  },
+  "author": "Aubrey Crook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/14Kappaman/Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/14Kappaman/Professional-README-Generator#readme"
+}
