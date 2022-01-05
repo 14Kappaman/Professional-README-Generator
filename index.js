@@ -44,9 +44,13 @@ ${readmedata.description}
 ## Table of Contents
 
 - [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribute](#contribute)
+- [Installation](#installation-instructions)
+- [Usage](#usage-information)
+- [License](#license-information)
+- [Contribution](#contribution-guidelines)
+- [Test Instructions](#test-instructions)
+- [Questions](#questions)
+
 
 ## Installation Instructions
 
