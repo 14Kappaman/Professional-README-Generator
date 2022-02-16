@@ -1,8 +1,9 @@
-# Cheap Date 
+# ReadME Generator
 
 ## Description
 
-Dating app for cheap single people. 
+The purpose of this application is to help developers save time creating README.md files for their various projects and repositories. The program will take the user through a series of command-line prompts to gather details about the project such as title, description, licensing information, contact information, etc. With that user’s input, the program writes a high-quality README.md file which then a user can use or build upon further.
+
 
 ## Table of Contents
 
@@ -29,7 +30,7 @@ none
 
 ## Contribution Guidelines
 
-No permissino is allowed.
+No permission is allowed.
 
 ## Test Instructions
 
@@ -41,4 +42,4 @@ Please contact the email below with questions
 
 github username: 14Kappman
 
-email: dfilg@gmail.com
+email: aubrey.crook@gmail.com
