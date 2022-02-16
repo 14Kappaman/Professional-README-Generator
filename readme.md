@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this application is to help developers save time creating README.md files for their various projects and repositories. The program will take the user through a series of command-line prompts to gather details about the project such as title, description, licensing information, contact information, etc. With that user’s input, the program writes a high-quality README.md file which then a user can use or build upon further.
+The purpose of this application is to assist developers in creating README.md files for their projects and repositories. The user goes through a processs of command-line prompts in order to provide information about the project such as title, description, licensing information, contact information, etc. With that user’s input, the program writes a high-quality README.md file which then a user can use or build upon further.
 
 
 ## Table of Contents
