@@ -1,8 +1,8 @@
-# Cheap Date 
+# Test Project 
 
 ## Description
 
-Dating app for cheap single people. 
+Test project to show how this app works. 
 
 ## Table of Contents
 
@@ -17,28 +17,28 @@ Dating app for cheap single people.
 
 ## Installation Instructions
 
-download from online
+Npm Start
 
 ## Usage Information
 
-Date match making and entertainment information 
+This project is used to create README files. 
 
 ## License Information
 
-none
+MIT License
 
 ## Contribution Guidelines
 
-No permissino is allowed.
+Contributions not accepted at this time.
 
 ## Test Instructions
 
-No test in this project.
+To test this app run NPM start and answer the questions for each of the prompts.
 
 ## Questions 
 
 Please contact the email below with questions
 
-github username: 14Kappman
+github username: 14Kappaman
 
-email: dfilg@gmail.com
+email: test@gmail.com
