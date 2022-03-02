@@ -85,7 +85,7 @@ email: ${readmedata.email}`
 
     console.log(content)
 
-    fs.writeFileSync(path.join(__dirname,"readme.md"),content)
+    fs.writeFileSync(path.join(__dirname,"readme_out.md"),content)
 } CreateReadMe()
 
 async function getUserInput(message){
