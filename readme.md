@@ -4,7 +4,7 @@
 
 The purpose of this application is to assist developers in creating README.md files for their projects and repositories. The user goes through a processs of command-line prompts in order to provide information about the project such as title, description, licensing information, contact information, etc. With that user’s input, the program writes a high-quality README.md file which then a user can use or build upon further.
 
-![screenshot](Screenshot 2022-03-02 184047.png)
+![screenshot](https://github.com/14Kappaman/Professional-README-Generator/blob/main/Screenshot%202022-03-02%20184047.png?raw=true)
 
 ## Table of Contents
 
