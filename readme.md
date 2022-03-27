@@ -30,6 +30,8 @@ Npm Start
 This project is used to create README files. 
 
 ## License Information
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+      https://opensource.org/licenses/MIT
 
 MIT License
 
