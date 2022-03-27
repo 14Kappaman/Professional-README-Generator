@@ -1,8 +1,8 @@
-# Test Project 
+# Tech Blog 
 
 ## Description
 
-This readme generator is used to created readme files for future and upcoming apps and projects. 
+This application allows developers to post on a blog as well as comment to other developers. 
 
 ## Table of Contents
 
@@ -17,28 +17,28 @@ This readme generator is used to created readme files for future and upcoming ap
 
 ## Installation Instructions
 
-Unzip the installer file and run installer.
+Downloand the zip file and unzip it. Run npm install. Then run npm start to run the application.
 
 ## Usage Information
 
-It is being used to crate readme files. 
+This assignment is used for educational learning purposes. 
 
 ## License Information
 
-MIT License
+none
 
 ## Contribution Guidelines
 
-No contributions are being accepted at this time.
+None
 
 ## Test Instructions
 
-Npm test
+None
 
 ## Questions 
 
 Please contact the email below with questions
 
-github username: 14kappaman
+github username: 14kappman
 
 email: aubrey.crook@gmail.com
